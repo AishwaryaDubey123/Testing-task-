@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA6U9Mj/KQMrikGaqB3cB+L6QO2g1jOG15ud23s5SCvq+tHugtv1guNeyYhn00oqFWreuasz3SPbZ2Xz3Qs+JQ==",
+  "success": true,
+  "projectFilePath": "/home/nashtech/Desktop/aishwarya task/Assignment_4_test/dotnetsession11webapis/RPGSolution/src/rpgAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/nashtech/.nuget/packages/microsoft.aspnetcore.openapi/8.0.3/microsoft.aspnetcore.openapi.8.0.3.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/nashtech/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
